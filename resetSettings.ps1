@@ -1,0 +1,1 @@
+﻿Get-AppxPackage *windows.immersivecontrolpanel* | Reset-AppPackage
